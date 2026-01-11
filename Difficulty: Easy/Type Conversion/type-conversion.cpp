@@ -6,7 +6,7 @@ int main() {
     cin >> d;
 
     // Typecast and Print
-    int x = (int)d;  
+    int x = (int)d;
     cout << x;
 
     return 0;
