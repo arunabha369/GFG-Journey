@@ -1,14 +1,9 @@
-#include <iostream>
-using namespace std;
+void utility(int number) {
 
-int main() {
-    int a;
-    cin >> a;
-
-    if (a > 100)
-        cout << "Big\n";
+    // Write your if-else statement below
+    if (number > 100)
+        cout << "Big" << endl;
     else
-        cout << "Number\n";
-
-    return 0;
+        cout << "Number" << endl;
+    // Write your if-else statement above
 }
